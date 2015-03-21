@@ -1,0 +1,4 @@
+# openSUSE #
+| **openSUSE 11.4** | **openSUSE Factory** | **openSUSE Tumbleweed (Rolling Release)** |
+|:------------------|:---------------------|:------------------------------------------|
+| [![](http://wiki.gpick.googlecode.com/hg/images/opensuse-1click-install.png)](http://download.opensuse.org/repositories/home:/ketheriel:/gpick/openSUSE_11.4/gpick.ymp) | [![](http://wiki.gpick.googlecode.com/hg/images/opensuse-1click-install.png)](http://download.opensuse.org/repositories/home:/ketheriel:/gpick/openSUSE_Factory/gpick.ymp) | [![](http://wiki.gpick.googlecode.com/hg/images/opensuse-1click-install.png)](http://download.opensuse.org/repositories/home:/ketheriel:/gpick/openSUSE_Tumbleweed/gpick.ymp) |

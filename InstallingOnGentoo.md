@@ -1,0 +1,1 @@
+Ebuild can be found here: http://code.google.com/p/gentoo-china-overlay/source/browse/#svn/trunk/app-misc/gpick

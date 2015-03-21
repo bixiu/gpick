@@ -1,0 +1,1 @@
+Debian gpick packages are provided for i386 and amd64 architectures. All dependencies should be automatically resolved by your package manager
